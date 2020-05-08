@@ -18,7 +18,11 @@ public class LocalVariableSyntax {
 //        var nothing = null;
 //        var bla = () -> System.out.println("Hallo");
 //        var method = LocalVariableSyntax::someMethod;
+<<<<<<< HEAD
 //        Local Change!!!!!!!!!!!!!!!!
+=======
+//        Local Change!!!!!!!!!!!!!!!
+>>>>>>> stash
 
         var list1 = new ArrayList<>();   // ArrayList<Object>
 
